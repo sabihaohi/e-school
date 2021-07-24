@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.sign a{
+    background: #21B573;
+    border-radius: 33px;
+    height: 43px;
+    width: 104px;
+    text-align: center;
+    color:white;
+
+
+}
+header{
+    background-color:  #F0FFF0;
+}
+.heading h6{
+    color: #FD511A;
+}
+.heading h1{
+    color: black;
+    /* line-height: 70px; */
+
+}
+.heading h1 span{
+    color:#21B573;
+}
+.heading p{
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.button{
+    background: #21B573;
+    border-radius: 20px;
+
+}
+.card-new{
+    background: #F8FFFB;
+    border: none;
+    
+}
+footer{
+ background: #282531;
+    color: white;
+}
